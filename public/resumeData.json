@@ -1,10 +1,10 @@
 {
   "main": {
     "name": "Ronit Shah",
-    "occupation": "Embedded Software Engineer",
+    "occupation": "Software Engineer",
     "description": "A recent Computer Science graduate from Deakin University with Distinction",
     "image": "me.jpeg",
-    "bio": "“Learning is a stepping  stone to success. Keep learning and Keep Growing.“ \\n\\n I have an excellent work ethic and an ability to learn. I have good information about web development (HTML, CSS), Data Analysis, Machine Learning, and Python. Enthusiastic to learn and perform new tasks. Aiming to utilize analytical ability to achieve the company’s goals.\\n\\n Discussing opportunities over a cup of coffee is never a bad idea. Feel free to reach out if I can be of any help or if you feel like we could collaborate on something innovative.",
+    "bio": "“Learning is a stepping  stone to success. Keep learning and Keep Growing.“ \\n\\n Seeking a challenging position as a software developer with a progressive organization that values creativity, innovation, and provides opportunities for growth. I am passionate about designing and implementing software solutions that improve business efficiency and deliver value to end-users. With a strong foundation in programming languages, software development methodologies, and a keen eye for detail, I am confident in my ability to deliver quality work and contribute to the success of the organization. I am enthusiastic to learn and perform new tasks. \\n\\n Discussing opportunities over a cup of coffee is never a bad idea. Feel free to reach out if I can be of any help or if you feel like we could collaborate on something innovative.",
     "contactmessage": "Get in touch with me to have a chat.",
     "email": "ronitshah7399@gmail.com",
     "phone": "04 9796 0000",
@@ -14,7 +14,7 @@
       "zip": "6000"
     },
     "website": "",
-    "resumedownload": "https://github.com/Ronit7399/Resume/blob/15b9b0e600ab8d9f843b270c37065e2422f22216/Resume%20final.pdf",
+    "resumedownload": "https://github.com/Ronit7399/Resume/blob/main/Resume_Ronit_Shah.pdf",
     "social": [
       {
         "name": "facebook",
@@ -23,7 +23,7 @@
       },
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/ronit-shah-0a1421181/",
+        "url": "https://www.linkedin.com/in/ronitshah7399/",
         "className": "fa fa-linkedin"
       },
       {
@@ -45,9 +45,21 @@
     ],
     "work": [
       {
-        "company": "Caught In The Act",
-        "title": "Embedded Software Engineer ",
-        "years": "November 2020 - Present",
+        "company": "Carpet Call Pty Ltd",
+        "title": "Sales Representative",
+        "years": "February 2023 - Present",
+        "description": "Perth, WA"
+      },
+	{
+        "company": "Freelancer",
+        "title": "Web Developer",
+        "years": "March 2022 - January 2023",
+        "description": "Sydney, NSW"
+      },
+	{
+        "company": "Absolute Electronics Pty Ltd",
+        "title": "Software Engineer ",
+        "years": "November 2020 - January 2022",
         "description": "Melbourne, VIC"
       },
       {
